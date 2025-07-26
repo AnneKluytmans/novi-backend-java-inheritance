@@ -1,6 +1,6 @@
 package nl.novi.javaprogrammeren.overerving;
 
-public class Cat extends PetAnimal {
+public class Cat extends Pet {
     private final boolean isOutdoor;
 
     public Cat(String name, String sex, String sound, String breed, String nameOwner, String favoriteFoodBrand, boolean isOutdoor) {

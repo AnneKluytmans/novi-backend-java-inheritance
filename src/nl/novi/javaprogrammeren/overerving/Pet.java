@@ -1,11 +1,11 @@
 package nl.novi.javaprogrammeren.overerving;
 
-public class PetAnimal extends Animal {
+public class Pet extends Animal {
     private final String breed;
     private String nameOwner;
     private String favoriteFoodBrand;
 
-    public PetAnimal(String name, String sex, String sound, String breed, String nameOwner, String favoriteFoodBrand) {
+    public Pet(String name, String sex, String sound, String breed, String nameOwner, String favoriteFoodBrand) {
         super(name, sex, sound);
         this.breed = breed;
         this.nameOwner = nameOwner;

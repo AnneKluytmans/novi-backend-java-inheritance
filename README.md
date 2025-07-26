@@ -52,7 +52,7 @@ The goal of this assignment is to deepen understanding of **inheritance**, **abs
 
 1. Open the project in **IntelliJ IDEA**
 2. Locate the `Main` class in `src/main/java`
-3. Run the `inheritance()` method using the green play button or use the terminal:
+3. Run the `Main()` method using the green play button or use the terminal:
 ```bash
 ./mvnw clean compile exec:java
 ```

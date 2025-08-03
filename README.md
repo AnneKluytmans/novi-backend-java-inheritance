@@ -53,9 +53,9 @@ The goal of this assignment is to deepen understanding of **inheritance**, **abs
 1. Open the project in **IntelliJ IDEA**
 2. Locate the `Main` class in `src/main/java`
 3. Run the `Main()` method using the green play button or use the terminal:
-```bash
-./mvnw clean compile exec:java
-```
+  ```bash
+  mvn clean compile exec:java
+  ```
 
 ## Credits
 > "This assignment was developed as part of the Backend Java module in the NOVI Software Development program. All instructions, logic, and structure are part of the official coursework."
